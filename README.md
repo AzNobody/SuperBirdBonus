@@ -21,5 +21,11 @@ Cependant, dans ce jeu, tout est controlé par des IA. Vous avez un panier (IA) 
 1. Ouvrez le dossier "Builds", "Build_09271603" puis "Windows"
 2. Lancez le jeu en cliquant sur l'exécutable "SuperBirdBonus.exe".
 
+## Ouverture dans Unreal Engine (si le .exe n'est pas présent)
+1. Installez Unreal Engine 5.2 sur votre machine
+2. Clonez ce dépôt sur votre machine locale.
+3. Ouvrez le projet dans Unreal Engine 5.
+4. Compilez et lancez le jeu depuis l'éditeur.
+
 ## Aperçu du Gameplay
 ![image](https://github.com/AzNobody/SuperBirdBonus/assets/101289700/01a6594b-65b0-41df-9362-1a4a21c34b2d)
