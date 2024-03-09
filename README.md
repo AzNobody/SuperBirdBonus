@@ -1,4 +1,4 @@
-# Super Bird Bonus
+# Super Bird Bonus - UE5
 
 ## Description
 Super Bird Bonus est un jeu inspiré des niveaux bonus du jeu "The Lion King" sur Sega Genesis, où le joueur contrôle Pumbaa pour collecter des insectes.
@@ -10,9 +10,16 @@ Cependant, dans ce jeu, tout est controlé par des IA. Vous avez un panier (IA) 
 - **Panier** : Un panier automatique qui se déplace pour attraper les œufs lancés par le perroquet.
 - **Score** : Le jeu enregistre le score en fonction du nombre d'œufs récupérés par le panier sous forme de pourcentage.
 
+## Technologies utilisées
+- **Unreal Engine 5** : Moteur de jeu utilisé pour le développement du jeu.
+- **C++** : Langage de programmation utilisé pour la logique du jeu.
+- **Blueprints** : Système de visual scripting utilisé pour créer des fonctionnalités et des interactions dans le jeu.
+- **Visual Studio** : Environnement de développement intégré pour la programmation en C++.
+- **Git/Perforce** : Système de contrôle de version utilisé pour la gestion du code source.
+
 ## Installation (Windows uniquement)
-1. Ouvrez le dossier "Builds" puis "Build_09292227"
-2. Lancez le jeu en cliquant sur l'exécutable "Bomberman.exe".
+1. Ouvrez le dossier "Builds", "Build_09271603" puis "Windows"
+2. Lancez le jeu en cliquant sur l'exécutable "SuperBirdBonus.exe".
 
 ## Aperçu du Gameplay
-[Insérez une capture d'écran ou une vidéo du gameplay ici]
+![image](https://github.com/AzNobody/SuperBirdBonus/assets/101289700/01a6594b-65b0-41df-9362-1a4a21c34b2d)
